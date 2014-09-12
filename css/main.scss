@@ -25,12 +25,6 @@
     text-align: center;
     color: $hero-color;
 
-    button {
-      @include button(simple, $base-background-color);
-      font-size: $base-font-size;
-      outline: none;
-    }
-
     .hero-copy {
       text-align: center;
       
@@ -58,3 +52,4 @@
     }
   }
 }
+
