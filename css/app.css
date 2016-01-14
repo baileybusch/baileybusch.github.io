@@ -192,8 +192,8 @@ input[type="submit"] {
   box-sizing: border-box; }
 
 .hero {
-  background: url("../images/photo.jpg"), -webkit-linear-gradient(-280deg, #217142, #214271), no-repeat #214271 scroll;
-  background: url("../images/photo.jpg"), linear-gradient(10deg, #217142, #214271), no-repeat #214271 scroll;
+  background: #D3D3D3, -webkit-linear-gradient(-280deg, #217142, #214271), no-repeat #214271 scroll;
+  background: #D3D3D3, linear-gradient(10deg, #217142, #214271), no-repeat #214271 scroll;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
