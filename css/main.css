@@ -1,4 +1,8 @@
-background: #d3d3d3;
-font-color: #000000;
-text-align: center; 
-padding-top: 25em;
+background-color: #d3d3d3;
+
+.hero
+	font: roboto, helvetica;
+	font-color: #000000;
+	text-align: center; 
+	margin-top: 25%;
+	margin-right: 25%;
