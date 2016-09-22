@@ -1,20 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-	<head>
-    	<link href="main.css" rel="stylesheet" type="text/css">
-    	
-  	</head>
-<body>
-	<div>
-		<h1>Hello World</h1>
-		<p>I'm hosted with GitHub Pages.</p>
-		<button onclick="cordial.event('buttonClick')">Press me</button>
-	</div>
-</body>
-</html>
-<script type="text/javascript">
-	
     (function () {
         var t = document.createElement('script');
         t.setAttribute("data-cordial-track-key", "sandboxce1");
@@ -24,4 +8,5 @@
         t.async = true;
         document.body.appendChild(t);
     })();
-</script>
+
+
